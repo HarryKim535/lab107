@@ -23,7 +23,7 @@
 1. [git 공식 사이트](https://git-scm.com/downloads)에서 git 프로그램을 다운받아 설치합니다. 
 1. 파일을 복사해 넣고 싶은 폴더에서 명령프롬프트 또는 파워셸을 연 후
   ```
-  git clone https://github.com/HarryKim535/lab107
+  git clone https://github.com/mrharrykim/lab107.git
   ```
   를 입력합니다.
 
