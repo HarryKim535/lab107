@@ -1,3 +1,6 @@
+# slight revision of the work by mcleonard
+# check out the original file at https://gist.github.com/mcleonard/5351452
+
 import math
 
 class Vector(object):
